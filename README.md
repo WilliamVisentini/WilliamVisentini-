@@ -4,5 +4,5 @@ Hello, here are a few things about me:
 
 - 🔭 I’m currently studying: Computer Science
 
-- 🌱 I’m currently learning: Angular
+- 🌱 I’m currently learning: Angular and Node.js
 
