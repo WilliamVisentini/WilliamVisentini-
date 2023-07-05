@@ -6,4 +6,4 @@ Hello, here are a few things about me:
 
 - 🌱 I’m currently learning: Angular and Node.js
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,angular&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,js,nodejs,angular&theme=light)](https://skillicons.dev)
