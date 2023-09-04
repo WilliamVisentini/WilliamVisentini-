@@ -4,6 +4,6 @@ Hello, here are a few things about me:
 
 - 🔭 I’m currently studying: Computer Science
 
-- 🌱 I’m currently learning: Angular and Node.js
+- 🌱 I’m currently learning: Angular
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,js,nodejs,angular&theme=light)](https://skillicons.dev)
